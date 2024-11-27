@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFWelcomeApp", "EFWelcomeApp\EFWelcomeApp.csproj", "{0931551A-594C-46B1-B163-43B6FACA1B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFModelFromDatabaseApp", "EFModelFromDatabaseApp\EFModelFromDatabaseApp.csproj", "{F11AECED-1C62-4C19-9258-95672F599EF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCrudApp", "EFCrudApp\EFCrudApp.csproj", "{62235381-7327-4818-8AFD-B359964A4454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0931551A-594C-46B1-B163-43B6FACA1B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0931551A-594C-46B1-B163-43B6FACA1B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0931551A-594C-46B1-B163-43B6FACA1B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0931551A-594C-46B1-B163-43B6FACA1B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11AECED-1C62-4C19-9258-95672F599EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11AECED-1C62-4C19-9258-95672F599EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11AECED-1C62-4C19-9258-95672F599EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11AECED-1C62-4C19-9258-95672F599EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62235381-7327-4818-8AFD-B359964A4454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62235381-7327-4818-8AFD-B359964A4454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62235381-7327-4818-8AFD-B359964A4454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62235381-7327-4818-8AFD-B359964A4454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
